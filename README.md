@@ -40,6 +40,10 @@ tests/              Tests de contrato, integración y e2e
 docs/               Guías de componentes, feed, testing y Auth0
 ```
 
+## Mi rol
+
+Creé la marca (nombre, logo, paleta de colores y estilo gráfico), diseñé la app, los mockups y los flujos de usuario, y participé en la implementación del frontend junto a otras dos personas.
+
 ## Equipo
 
 [@Flo-aq](https://github.com/Flo-aq) (Florencia Aqueveque), Gaspar, Diego y colaboradores. El historial conserva la autoría de cada integrante.
